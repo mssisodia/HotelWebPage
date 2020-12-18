@@ -1,1 +1,1 @@
-# StackOverflow
+# Hotel Webpage example
